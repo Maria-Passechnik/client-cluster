@@ -1,6 +1,6 @@
 import './App.css';
 import { QueueList } from './Components/QueueList';
-import { QueueSelector } from './Components/QueueList/QueueSelector';
+import { QueueSelector } from './Components/QueueSelector';
 
 const App: React.FC = () => {
   return (

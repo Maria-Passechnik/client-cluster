@@ -30,5 +30,3 @@ export const QueueList: React.FC = () => {
     </div>
   );
 };
-
-export default QueueList;
